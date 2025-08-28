@@ -91,7 +91,7 @@ terraform.tfstate
 terraform.tfstate.backup
 terraform/terraform.tfstate
 terraform/terraform.tfstate.backup
-terra-key.pub
-terra-key
+PatrickKP.pub
+PatrickKP
 terraform/apps/helm-values/.*
 
