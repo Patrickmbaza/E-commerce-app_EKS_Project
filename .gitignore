@@ -77,8 +77,8 @@ Thumbs.db
 mongodb/
 
 terraform/.terraform/*
-terraform/terra-key.pub
-terraform/terra-key
+terraform/PatrickKP.pub
+terraform/PatrickKP
 terraform/terraform.tfstate*
 terraform/.terraform.lock.hcl
 terraform/.terraform/modules/*
